@@ -2,7 +2,7 @@ import sys
 from setuptools import setup, find_packages
 
 #Distribute py wheels
-#python3 setup.py bdist_wheel sdist
+#python setup.py bdist_wheel sdist
 #twine check dist/*
 #cd dist 
 #twine upload *
